@@ -14,7 +14,11 @@
 - <b>MongoDB Projects</b>
   - MongoDB dump Encryptions of concept (KMIP)
   
-- <b>C# (.NET Desktop Applications)</b>
+ 
+- <b>Javascript Projects</b> 
+  - JWT JavaScript JWT Projects (Auth0.js Alternatives)
+  
+- <b>Java (Java Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/j)
   - [Keylogger with Email Capability](https://github.com/)
